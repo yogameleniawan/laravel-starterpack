@@ -67,6 +67,7 @@ npm run dev
 [127.0.0.0:8000](http://127.0.0.1:8000/)
 
 Hasilnya akan seperti ini 
-![image](https://github.com/user-attachments/assets/95267c76-dc6f-499d-9cad-f2be9ed51267)
+![image](https://github.com/user-attachments/assets/21c73c13-9c46-4565-9322-db98efc706df)
+
 
 
