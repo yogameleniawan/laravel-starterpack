@@ -58,7 +58,7 @@ npm install
 php artisan serve
 ```
 
-9. Jalankan javascript bundle
+9. Buka terminal baru di direktori laravel yang sama, kemudiab jalankan javascript bundle
 ```bash
 npm run dev
 ```
