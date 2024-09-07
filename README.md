@@ -33,6 +33,22 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
+Jika terdapat error ketika menjalankan perintah di atas ikuti langkah-langkah di bawah ini :
+
+Buka file `.env`
+
+![image](https://github.com/user-attachments/assets/4468b738-08c8-4c6b-bc67-9a43d2bd3b50)
+
+Pada .env key seperti di bawah ini silahkan sesuaikan dengan database credential sesuai dengan database, username, dan password yang ada pada perangkat temen-temen.
+
+Sebelum
+
+![image](https://github.com/user-attachments/assets/39f9b81f-6c1e-484a-a795-c8aa5835bf39)
+
+Sesudah
+
+![image](https://github.com/user-attachments/assets/2d31dade-f9cb-4399-a845-c28c8efda988)
+
 7. Install npm dependency
 ```bash
 npm install
