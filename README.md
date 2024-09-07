@@ -4,7 +4,7 @@
 
 - [PHP 8.1 or Higher](https://www.php.net/downloads.php)
 - [Laravel 11](https://www.laravel.com/)
-- [Pusher](https://pusher.com/)
+- [Laragon](https://laragon.org/download/)
 - [NodeJS](https://nodejs.org/en)
   
 ## Installation
