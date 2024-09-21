@@ -6,6 +6,7 @@
 - [Laravel 11](https://www.laravel.com/)
 - [Laragon](https://laragon.org/download/)
 - [NodeJS](https://nodejs.org/en)
+- [Postman](https://www.postman.com/downloads/)
   
 ## Installation
 
