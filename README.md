@@ -10,10 +10,14 @@
   
 ## Installation
 
-1. Buka Terminal
+1. Inisialisasi Projek
+
+Buka Terminal (Jika menggunakan git)
 ```bash
 git clone https://github.com/yogameleniawan/laravel-starterpack.git
 ```
+Extract file `laravel-starterpack-main.zip` (Jika menggunakan .zip)
+
 2. Buka folder hasil clone
 ```bash
 cd laravel-starterpack
