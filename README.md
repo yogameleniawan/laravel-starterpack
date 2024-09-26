@@ -7,6 +7,7 @@
 - [Laragon](https://laragon.org/download/)
 - [NodeJS](https://nodejs.org/en)
 - [Postman](https://www.postman.com/downloads/)
+- [Composer](https://getcomposer.org/download/)
   
 ## Installation
 
